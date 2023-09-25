@@ -1,0 +1,135 @@
+body{
+    background-color: #21222A;
+}
+.nav{
+    display: inline-flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    
+}
+.nav > h2{
+    padding: 10.93px;
+}
+.hire{
+    display: flex;
+    width: 100%; 
+    height: 100%; 
+    padding-top: 4.55px; 
+    padding-bottom: 4.54px; 
+    padding-left: 6.68px; 
+    padding-right: 6.76px; 
+    background: #33AD9F;  
+    justify-content: space-between; 
+    align-items: center; 
+    color: white; 
+    font-size: 5.77px; 
+    font-family: Montserrat; 
+    font-weight: 600;
+    word-wrap: break-word;
+    
+}
+.Logo > h1{
+    padding-left: 50px;
+
+}
+.Logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90px;
+    padding: 30px 25px;
+}
+.logo{
+    display: inline-flex;
+    padding: 100px;
+    color: white;
+font-size: 7.59px;
+font-family: Monoton;
+font-weight: 400;
+word-wrap: break-word
+}
+.Beranda{
+    display: inline-flex;
+    color: #4EFFEA;
+font-size: 5.77px;
+font-family: Montserrat;
+font-weight: 600;
+word-wrap: break-word
+}
+.Portfolio{
+    display: inline-flex;
+    color: white;
+font-size: 5.77px;
+font-family: Montserrat;
+font-weight: 600;
+word-wrap: break-word
+}
+.Blog{
+    display: inline-flex;
+color: white;
+ font-size: 5.77px;
+ font-family: Montserrat;
+ font-weight: 600;
+ word-wrap: break-word
+}
+.ContactUS{
+    display: flex;
+    color: white;
+font-size: 5.77px;
+font-family: Montserrat;
+font-weight: 600;
+word-wrap: break-word
+}
+
+.world{
+    color: white;
+font-size: 5.16px;
+font-family: Montserrat;
+font-weight: 500;
+word-wrap: break-word
+}
+
+.Myself{
+    color: white; 
+    font-size: 5.16px; 
+    font-family: Montserrat; 
+    font-weight: 500; 
+    word-wrap: break-word;
+}
+.Myself > h3{
+    padding-right: 260px;
+    line-height: 5px;
+}
+.name{
+    display: flex;
+    gap: 0.5rem;
+    padding-left: 610px;
+    justify-content: left;
+    font-size: 20px;
+    line-height: 5px;
+}
+.prof{
+    display: flex;
+    gap: 0.5rem;
+    padding-left: 610px;
+    justify-content: left;
+}
+.b{
+    padding-right: 260px;
+}
+.hi{
+    color: white;
+    font-size: 13.66px;
+    font-family: Montserrat;
+    font-weight: 700;
+    word-wrap: break-word
+}
+.nama{
+    justify-content: center;
+    color: #4EFFEA;
+font-size: 13.66px;
+font-family: Montserrat;
+font-weight: 700;
+word-wrap: break-word
+}
